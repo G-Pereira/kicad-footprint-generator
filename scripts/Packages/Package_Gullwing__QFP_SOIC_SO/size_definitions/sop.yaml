@@ -284,6 +284,31 @@ STC_SOP-16_3.9x9.9mm_P1.27mm:
   num_pins_x: 0
   num_pins_y: 8
 
+SOP-20_7.06x12.8mm_P1.27mm:
+  size_source: 'https://www.holtek.com/documents/10179/116711/2_12dv120.pdf'
+  body_size_x:
+    minimum: 6.5024
+    maximum: 7.62
+  body_size_y:
+    minimum: 12.5984
+    maximum: 13.0048
+  overall_height:
+    maximum: 2.6416
+
+  overall_size_x:
+    minimum: 9.9822
+    maximum: 10.6426
+  lead_width:
+    minimum: 0.3048
+    maximum: 0.508
+  lead_len:
+    minimum: 0.4064
+    maximum: 1.27
+
+  pitch: 1.27
+  num_pins_x: 0
+  num_pins_y: 10
+
 SOP-24_7.5x15.4mm_P1.27mm:
   size_source: 'http://www.issi.com/WW/pdf/31FL3218.pdf#page=14'
   body_size_x:

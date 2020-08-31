@@ -295,6 +295,7 @@ SOP-20_7.5x12.8mm_P1.27mm:
 
   overall_size_x:
     nominal: 10.30
+
   lead_width:
     minimum: 0.31
     maximum: 0.51
